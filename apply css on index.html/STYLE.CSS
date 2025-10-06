@@ -1,0 +1,38 @@
+
+    body {
+    background-color: rgb(71, 109, 158);
+    font-family: Arial, sans-serif;
+    margin:100;
+    padding: 0;
+    h2 {
+    text-align: center;
+    color: rgb(1, 20, 38);
+    margin-top: 20px;
+}
+
+h3 {
+    color: rgb(41, 128, 185);
+}
+article {
+    background: rgb(62, 86, 102);
+    margin: 15px;
+    padding: 20px;
+    border-radius: 65px;
+}
+ul, ol {
+    padding-left: 40px;
+    color: rgb(0, 0, 0);
+    
+}
+footer {
+    background: rgb(19, 20, 22);
+    color: rgb(255, 253, 253);
+    padding: 22px;
+    text-align: center;
+}
+
+footer a {
+    color: rgb(37, 92, 94);
+
+}
+}
